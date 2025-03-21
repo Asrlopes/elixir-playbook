@@ -1,5 +1,7 @@
 # Guia para os devs Elixir/Phoenix
 
+## Section
+
 ```elixir
 Mix.install([
   {:ecto, "~> 3.8"},
@@ -72,11 +74,11 @@ A principal referência em estilo de código em Elixir, mantido pela comunidade 
 
 ### Arquitetura a ser seguida no Phoenix:
 
-![](./images/arquitetura.png)
+![](../images/arquitetura.png)
 
 #### Exemplo:
 
-![](./images/exemplo_arquitetura.png)
+![](../images/exemplo_arquitetura.png)
 
 ## Nomemclaturas - Funções no Repo
 

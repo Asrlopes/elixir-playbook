@@ -22,8 +22,6 @@ Ao seguir as orientações propostas neste guia, você estará contribuindo para
 
 ## Pré-requisitos
 
-Antes de começar faça o [fork](https://github.com/idopterlabs/elixir-playbook/fork) do repositório para poder contribuir, verifique se você atendeu aos seguintes pré-requisitos:
-
 * Ter instalado a o LiveBook ou docker e docker compose
     - [LiveBook](https://livebook.dev/#install)
     - [Docker](https://docs.docker.com/compose/install/)
